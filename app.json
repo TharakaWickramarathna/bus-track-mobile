@@ -1,0 +1,12 @@
+{
+  "name": "bus",
+  "displayName": "bus",
+  "expo": {
+    "name": "bus",
+    "slug": "bus",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
